@@ -5,10 +5,10 @@ this.rollno=p2;
 this.address=p3;
 }
  printSchool(){
-    console.log(`The name of school is ${this.name}`)
+    console.log(`The name of school is ${this.name} ${this.address}`)
 }
 }
-let school= new School("D.A.V",
+let school= new School("D.A.V","patna",
 
 ["Larner1","Larner2","larner3"],
 "Patna"
