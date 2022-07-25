@@ -10,8 +10,8 @@ let Name={
  Name.printfullname();
  
 let Name2={
-    firstName:"appurv",
-        lastName:"prakash",
+    firstName:"ms",
+        lastName:"dhoni",
         }
         
         
